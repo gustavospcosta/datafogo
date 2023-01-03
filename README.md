@@ -2,11 +2,12 @@
 This is the official repository of Datafogo Project.
 
 ## About
-The project it's dedicated to help <a href="https://www.botafogo.com.br/">Botafogo Futebol Clube</a> create better squads in order to win championships. We don't have any part with the organization at all: I'm a single fan who loves the club, and loves Data Analysis/Data Engineering.
+This project it's dedicated to help <a href="https://www.botafogo.com.br/">Botafogo Futebol Clube</a> create better squads in order to win championships. We don't have any part with the organization at all: we are a group of fan who loves the club, and loves Data Analysis/Data Engineering.
 
-We do not receive any financial support from anyone.
+IMPORTANTE: We do not receive any financial support from anyone.
 
 ## Goals
+Provides reliable data/data analysis to help the Botafogo's Scout Staff do a good job.
 
 ## Technologies
 
@@ -21,8 +22,11 @@ We do not receive any financial support from anyone.
 </div>
 
 ## Author(s)
-Gustavo de Souza Pessanha da Costa
+Gustavo de Souza Pessanha da Costa, Leonardo de Souza Pessanha da Costa and Rodrigo da Silva Moura.
 
-## Contact
+## Site
+www.datafogo.com
 
+## Email
+datafogo@outlook.com
 
